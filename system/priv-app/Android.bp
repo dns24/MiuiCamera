@@ -9,6 +9,9 @@ android_app_import {
     overrides: [
         "SnapdragonCamera",
         "Snap",
+        "camera",
+        "Camera",
+        "camera2",
         "Camera2",
     ],
     apk: "MiuiCamera/MiuiCamera.apk",
